@@ -14,7 +14,7 @@ const page = () => {
             <h3 className="text-2xl md:text-xl">PROJETO FINAL - CS50</h3>
             <p className="m-auto text-lg md:text-base">Projeto de escolha livre. Decidi criar um site para se comunicar com amigos em Flask.</p>
             <iframe className="w-full flex-auto" 
-                src="http://www.youtube.com/embed/uXM7jneHkSA">
+                src="https://www.youtube.com/embed/uXM7jneHkSA">
             </iframe>
         </article>
         <article className="flex justify-center items-center gap-2 p-2 border-4 border-dashed border-blue-300 md:col-start-2 md:row-start-2">
